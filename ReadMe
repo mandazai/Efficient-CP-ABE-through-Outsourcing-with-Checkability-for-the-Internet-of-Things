@@ -1,0 +1,16 @@
+This software is a implement of the paper "High-Performance Batch Exponentiation Outsourcing with Checkability and its Application for IoT Environment".
+Which is published on the ESTSD, 2017.
+
+To run this java project, you need to have the Java Pairing Based Cryptography Library(jPBC) installed (jpbc-2.0.0 is tested). 
+You can get it from the following page:
+   	・ http://gas.dia.unisa.it/projects/jpbc/
+and my java version is 9.0.1.
+
+Thanks for junwei-wang who provide the similar cpabe open-source-code on githob:
+	・ https://github.com/junwei-wang/cpabe
+	・ Junwei Wang. Java Realization for Ciphertext-Policy Attribute-Based Encryption. https://github.com/junwei-wang/cpabe/, 2012
+	
+and much other code is referenced from the Internet, i had commented before the line.
+
+
+
